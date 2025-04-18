@@ -131,4 +131,4 @@ User::create($request->validated());
 
 ---
 ### What next:
-7. See the [Testing](https://git.greksak.sk/Michal/coding-standard/src/branch/main/docs/7_testing.md) coding standards.
+7. See the [Testing](https://github.com/bohumer/coding-standard/blob/main/coding-standard/docs/7_testing.md) coding standards.
