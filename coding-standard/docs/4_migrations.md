@@ -122,4 +122,4 @@ public function body(): MorphOne {
 
 ---
 ### What next:
-5. See the [Views](https://git.greksak.sk/Michal/coding-standard/src/branch/main/docs/5_views.md) coding standards.
+5. See the [Views](https://github.com/bohumer/coding-standard/blob/main/coding-standard/docs/5_views.md) coding standards.
