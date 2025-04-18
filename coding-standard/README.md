@@ -60,13 +60,13 @@ The result of following these standards has two minor advantages:
 # Deeper Coding Principles
 
 Please read 7 more detailed principles and coding standards:
-1. [Routing](https://git.greksak.sk/Michal/coding-standard/src/branch/main/docs/1_routing.md)
-2. [Controllers](https://git.greksak.sk/Michal/coding-standard/src/branch/main/docs/2_controllers.md)
-3. [Models](https://git.greksak.sk/Michal/coding-standard/src/branch/main/docs/3_models.md)
-4. [Migrations](https://git.greksak.sk/Michal/coding-standard/src/branch/main/docs/4_migrations.md)
-5. [Views](https://git.greksak.sk/Michal/coding-standard/src/branch/main/docs/5_views.md)
-6. [Validations](https://git.greksak.sk/Michal/coding-standard/src/branch/main/docs/6_validations.md)
-7. [Testing](https://git.greksak.sk/Michal/coding-standard/src/branch/main/docs/7_testing.md)
+1. [Routing](https://github.com/bohumer/coding-standard/blob/main/coding-standard/docs/1_routing.md)
+2. [Controllers](https://github.com/bohumer/coding-standard/blob/main/coding-standard/docs/2_controllers.md)
+3. [Models](https://github.com/bohumer/coding-standard/blob/main/coding-standard/docs/3_models.md)
+4. [Migrations](https://github.com/bohumer/coding-standard/blob/main/coding-standard/docs/4_migrations.md)
+5. [Views](https://github.com/bohumer/coding-standard/blob/main/coding-standard/docs/5_views.md)
+6. [Validations](https://github.com/bohumer/coding-standard/blob/main/coding-standard/docs/6_validations.md)
+7. [Testing](https://github.com/bohumer/coding-standard/blob/main/coding-standard/docs/7_testing.md)
 
 
 ---
