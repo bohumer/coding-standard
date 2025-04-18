@@ -134,4 +134,4 @@ public function store(PostRequest $request) {
 
 ---
 ### What next:
-3. See the [Models](https://git.greksak.sk/Michal/coding-standard/src/branch/main/docs/3_models.md) coding standards.
+3. See the [Models](https://github.com/bohumer/coding-standard/blob/main/coding-standard/docs/3_models.md) coding standards.
