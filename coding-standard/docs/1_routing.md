@@ -79,4 +79,4 @@ Route::get('/profile/{user?}', [ProfileController::class, 'show'])->name('profil
 
 ---
 ### What next:
-2. See the [Controllers](https://git.greksak.sk/Michal/coding-standard/src/branch/main/docs/2_controllers.md) coding standards.
+2. See the [Controllers](https://github.com/bohumer/coding-standard/blob/main/coding-standard/docs/2_controllers.md) coding standards.
