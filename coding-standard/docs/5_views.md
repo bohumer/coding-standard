@@ -189,4 +189,4 @@ $users = User::withCount('posts')->get();
 
 ---
 ### What next:
-6. See the [Validations](https://git.greksak.sk/Michal/coding-standard/src/branch/main/docs/6_validations.md) coding standards.
+6. See the [Validations](https://github.com/bohumer/coding-standard/blob/main/coding-standard/docs/6_validations.md) coding standards.
