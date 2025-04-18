@@ -103,4 +103,4 @@ $users = User::with('posts')->get();
 
 ---
 ### What next:
-4. See the [Migrations](https://git.greksak.sk/Michal/coding-standard/src/branch/main/docs/4_migrations.md) coding standards.
+4. See the [Migrations](https://github.com/bohumer/coding-standard/blob/main/coding-standard/docs/4_migrations.md) coding standards.
